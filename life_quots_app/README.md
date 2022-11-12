@@ -15,6 +15,4 @@
 
 
 
-<p align=center>
-<img src="https://github.com/ParasRojiya/life_quotes_app/blob/master/assets/output/gif.gif" height=500 width=250>
-</p>
+
